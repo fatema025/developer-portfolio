@@ -156,49 +156,49 @@ Visitors can:
 
 ## 🔹 Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](images/homepage.png)
 
 ---
 
 ## 🔹 About Section
 
-![About](screenshots/about-section.png)
+![About](images/about-section.png)
 
 ---
 
 ## 🔹 Skills Section
 
-![Skills](screenshots/skills-section.png)
+![Skills](images/skills-section.png)
 
 ---
 
 ## 🔹 Projects Showcase
 
-![Projects](screenshots/projects-section1.png)
+![Projects](images/projects-section1.png)
 
 ---
 
 ## 🔹 Projects Showcase
 
-![Projects](screenshots/projects-section2.png)
+![Projects](images/projects-section2.png)
 
 ---
 
 ## 🔹 Projects Showcase
 
-![Projects](screenshots/projects-section3.png)
+![Projects](images/projects-section3.png)
 
 ---
 
 ## 🔹 Experience Section
 
-![Projects](screenshots/experience-section.png)
+![Projects](images/experience-section.png)
 
 ---
 
 ## 🔹 Contact Form
 
-![Contact Form](screenshots/contact-section.png)
+![Contact Form](images/contact-section.png)
 
 ---
 
@@ -262,7 +262,7 @@ developer-portfolio/
 ├── js/
 │   └── script.js
 ├── images/
-├── screenshots/
+├── images/
 └── README.md
 ```
 
